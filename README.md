@@ -42,5 +42,5 @@ Place your image as greyscale.jpg in the root directory or modify the path in ma
 
 ### 4. Run the script
 ```bash
-python manual_2D_convolution.py
+python manual_2d_convolution.py
 ```
